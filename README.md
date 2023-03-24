@@ -48,6 +48,10 @@ I would recommend tuning the regression tree model to produce the most accurate 
 
 More of your own text here
 
+## RegressionTreee Feature Importances
+
+![sample image](https://github.com/JTAytch/Project-1-Revisted/blob/main/RegTree%20Importances.PNG)
+
 
 ### For further information
 
