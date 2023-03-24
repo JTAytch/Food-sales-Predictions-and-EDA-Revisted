@@ -44,7 +44,7 @@ While not a perfect metric, the regression tree model's fairly high r^2 means th
 I would recommend tuning the regression tree model to produce the most accurate results. I would also recommend figuring out the outlet size of more of the markets, as I believe that could help produce further insight. 
 
 
-## Limitations & Next Steps
+## LinearRegression coefficients plot
 
 More of your own text here
 
