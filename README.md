@@ -46,9 +46,11 @@ I would recommend tuning the regression tree model to produce the most accurate 
 
 ## LinearRegression coefficients plot
 
-More of your own text here
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/LinReg%20Coeffs.PNG)
 
-## RegressionTreee Feature Importances
+Outlet Location type seems to have the biggest impact on sales in general.
+
+## RegressionTree Feature Importances
 
 ![sample image](https://github.com/JTAytch/Project-1-Revisted/blob/main/RegTree%20Importances.PNG)
 
