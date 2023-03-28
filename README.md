@@ -54,7 +54,21 @@ Outlet Location type seems to have the biggest impact on sales in general.
 
 ![sample image](https://github.com/JTAytch/Project-1-Revisted/blob/main/RegTree%20Importances.PNG)
 
+### Are they the same features in both? If not, what's different?
 
+The values are the same, but the visibility and supermarket type are flipped.
+
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/SHAp%20summary%20plot%20bar.png)
+
+### The top 3 most important features and how they influence the model's predictions.
+
+Item_MRP - The higher this is, the more likely the model is to give a high sale price.
+
+Outlet_Type - the higher this is, the less likely the model is to give a high sale price.
+
+Supermarket type 3 - type 3 Supermarkets tend to be predicted to have higher sale prices. 
+
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/SHAP%20summary%20plot%20dot.png)
 
 
 ### For further information
