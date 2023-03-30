@@ -82,6 +82,10 @@ According to both explainations, the outlet not being a grocery store, being sup
 
 ### Low value target 
 
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/Low%20value%20LIME%20plot.PNG)
+
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/Low%20value%20force%20plot.PNG)
+
 The features for this sample was the same as the previous one, except since the outlet was a grocery store and not a supermarket type 3, those values affected the predicted value negatively. MRP was still positive and still a high influence.
 
 ### For further information
