@@ -70,6 +70,19 @@ Supermarket type 3 - type 3 Supermarkets tend to be predicted to have higher sal
 
 ![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/SHAP%20summary%20plot%20dot.png)
 
+## Local Explanations
+
+### High value target 
+
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/High%20value%20LIME%20plot.PNG)
+
+![sample image](https://raw.githubusercontent.com/JTAytch/Project-1-Revisted/main/High%20value%20force%20plot.PNG)
+
+According to both explainations, the outlet not being a grocery store, being supermarket type 3, and a high MRP influenced the predicted value the most, in a positive manner. 
+
+### Low value target 
+
+The features for this sample was the same as the previous one, except since the outlet was a grocery store and not a supermarket type 3, those values affected the predicted value negatively. MRP was still positive and still a high influence.
 
 ### For further information
 
