@@ -5,17 +5,17 @@
 
 ### Business problem:
 
-Understanding the properties of products and outlets that play crucial roles in increasing sales.
+Understanding the properties of products and outlets that play crucial roles in increasing sales. The goal is to find out what features affect the sales numbers of a product the most, whether good or bad, based on the available data. After that, we will look to see if we can make a machine learning model that can accurately determine which features have the biggest impact on sales overall, that way it can predict how an item will fare based on the available data. 
 
 
 ### Data:
 [Data (e.g. # obs)](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
 
-A food sales dataset with 12 features and 8500+ instances.
+A food sales dataset with 12 features/properties and 8500+ instances/foods.
 
 
 ## Methods
-- Item weights were removed but Outlet Size could become a relevant datatype with more information. Outlet size could be approximated when more patterns or data is discerned. 
+- Item weights were removed as it seemed irrelevant, but Outlet Size could become a relevant datatype with more information. Outlet size could be approximated when more patterns or data is discerned. 
 
 ## Results
 
