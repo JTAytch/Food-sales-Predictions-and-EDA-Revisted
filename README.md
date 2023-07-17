@@ -1,5 +1,5 @@
-# Food sales and MRP
-## Discovering the relationship between the MRP of a food and how well it sells.
+# Food sales Predictions and EDA-Revisted.
+## Discovering the relationship between various properties of a grocery store item and how well it sells.
 
 **Author**: J. Tulani Aytch
 
